@@ -1,0 +1,26 @@
+[
+    {
+      "petName": "mitel",
+      "ownerName": "Hassum Harrod",
+      "aptDate": "2016-06-20 15:30",
+      "aptNotes": "mitel 6900"
+    },
+    {
+      "petName": "shoretel",
+      "ownerName": "Constance Smith",
+      "aptDate": "2016-06-24 08:30",
+      "aptNotes": "shoretel merger"
+    },
+    {
+      "petName": "cisco",
+      "ownerName": "Barot Bellingham",
+      "aptDate": "2016-06-22 15:50",
+      "aptNotes": "cisco iot"
+    },
+    {
+      "petName": "microsoft",
+      "ownerName": "Hillary Goldwyn",
+      "aptDate": "2016-06-21 9:15",
+      "aptNotes": "mircosoft teams"
+    }
+  ]
